@@ -41,18 +41,16 @@ rani
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-raja
-ravi
-raman
-kumar
+<img width="385" height="93" alt="image" src="https://github.com/user-attachments/assets/a6b3e463-ad55-4353-992d-0960e26420ea" />
 
 
 
 cat < file2
-## OUTPUTlikesh
-nivesh
-elumalai
-rani
+## OUTPUT
+<br>
+<img width="400" height="101" alt="image" src="https://github.com/user-attachments/assets/4a2365ac-b19f-469c-94ca-77c50ae1a03f" />
+</br>
+
 
 
 # Comparing Files
